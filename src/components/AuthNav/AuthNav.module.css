@@ -1,0 +1,12 @@
+.authNav {
+	display: flex;
+	gap: 15px;
+}
+.authLink {
+	color: black;
+	transition: color 300ms ease-in-out;
+}
+
+.authLink:hover {
+	color: rgb(87, 87, 87);
+}
